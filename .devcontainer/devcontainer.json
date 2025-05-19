@@ -12,6 +12,6 @@
         }
     },
     "features": {},
-    "forwardPorts": [888],
+    "forwardPorts": [8888],
     "remoteUser": "vscode"
 }
